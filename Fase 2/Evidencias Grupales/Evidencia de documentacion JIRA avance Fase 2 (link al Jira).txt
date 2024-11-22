@@ -1,3 +1,0 @@
-El siguiente enlace lleva al infoem del sprint en Jira
-
-https://duocuc-lopezx2ycalderon.atlassian.net/jira/software/projects/CIA/boards/2/reports/burnup?atlOrigin=eyJpIjoiOTI5OTc3ZjQ2OGJlNGQxYzllZWFjNDlmOTFmYTI0ODgiLCJwIjoiaiJ9
